@@ -1,0 +1,185 @@
+from;to;relationship;year
+bs;AI;3;2011
+bs;AfIH;2;2017
+bs;BdF;1;2021
+bs;BsMH;3;2018
+bs;FDBBf;2;2017
+bs;GA;2;2017
+bs;Lk Raven;2;2018
+bs;LHSLR;7;2002
+bs;PVNATO;2;2017
+bs;PBCovid;2;2017
+bs;UnterA ZKKH;2;2017
+bs;VertA;2;2013
+ck;AfBFT;2;2017
+ck;AfRV;2;2017
+ck;AfUNnS;2;2013
+ck;AfVdI;2;2013
+ck;AfVdI;2;2018
+ck;BfUNnSV;1;2013
+ck;BsMK;4;2017
+ck;Colum Uni;7;2004
+ck;DFPV;2;2017
+ck;EOW eG;4;2017
+ck;HKA;2;2013
+ck;Kv Germ;2;2002
+ck;LvJuLi BW;2;2010
+ck;LvFDP;2;1991
+ck;LvFDP;2;2013
+ck;RA;2;2020
+ck;TuWas;3;2017
+ck;Wahl.A;2;2017
+co;AVSEEP GmbH;3;2017
+co;AJC eV;3;2013
+co;AfBWSK;2;2017
+co;AfWIG;2;2017
+co;BertelS;6;
+co;BfUNnSV;1;2021
+co;DPZ eV;3;2017
+co;DI eV;3;2013
+co;EKUni Tueb;7;2009
+co;EKUni Tueb;7;2012
+co;ECFR;3;2017
+co;FDPDVLf;2;2014
+co;FDPDVLf;2;2006
+co;GSsF eV;3;2017
+co;GrJu;2;1997
+co;HA;2;2017
+co;IfKJ eV;3;2013
+co;IfM;4;2017
+co;JuLi BW;2;2010
+co;JuLi BW;2;2003
+co;KIT;6;2007
+co;TBCG GmbH;6;
+co;THS;3;2013
+co;THS;3;2004
+co;TuWas eV;3;2017
+co;UN CSW;2;2000
+co;Uni Heidel;7;2003
+co;ZIF;4;2017
+fb;AI eV;3;2017
+fb;AfFSFJ;2;2013
+fb;AfFSFJ;2;2017
+fb;AAmt;1;2021
+fb;Astudi eV;3;2013
+fb;BfI;2;2017
+fb;BsB;3;2017
+fb;Camb Uni;7;2002
+fb;DBU;3;
+fb;DGF eV;3;2017
+fb;DKP;2;2013
+fb;DTF eV;3;2013
+fb;EP;2;2009
+fb;EPC;3;2017
+fb;EvFfS Reut;7;1994
+fb;FCVfINF eV;3;2017
+fb;GeHaN;6;1995
+fb;HA;2;2009
+fb;HKA;2;2011
+fb;IEP;3;2017
+fb;IfFFSE;4;2017
+fb;JDC;4;2017
+fb;KAL BW;2;2011
+fb;RPLGrue;2;2011
+fb;SBE;3;2017
+fb;Uni Karls;7;2002
+fb;Uni Konst;7;2006
+fb;Uni Mann;7;2005
+fb;UnterA ZKKH;2;2013
+fb;UntersA;2;2017
+fb;VDFGfE eV;3;2017
+fb;VermA;2;2017
+fb;WirtA;2;2012
+ft;UntersA drei;2;2017
+ft;AeltRat;2;2017
+ft;ASS GmbH;4;2018
+ft;AfKM;2;2013
+ft;AA;2;2013
+ft;BfBF;1;2021
+ft;DAidsS;3;2019
+ft;EBD eV;3;2017
+ft;FDPBevS;2;2003
+ft;FDPKf Freud;2;1999
+ft;FBD;6;2014
+ft;FGHD eV;3;2017
+ft;FNS;5;2001
+ft;FofEU;3;2017
+ft;GeB;2;2018
+ft;GfAR GmbH;4;
+ft;GrJu BW;2;1996
+ft;HBS eV;3;2017
+ft;KfW;3;
+ft;KvGrue Tueb;2;2002
+ft;Lv SWGrue;2;2009
+ft;LvSPD BW;2;2007
+ft;SGF;3;2017
+ft;TDSAP eV;3;2013
+ft;Uni Regen;7;2000
+ft;VW eV;3;2017
+ft;WfSPD eV;3;
+ft;ZDF;4;2013
+jb;AfAdEU;2;2013
+jb;AfIH;2;2017
+jb;BfEL;1;2021
+jb;BVMW eV;3;2013
+jb;DENEFF;3;2017
+jb;DFI eV;3;2017
+jb;EP;2;2004
+jb;KfW;3;2019
+jb;RpA;2;2013
+jb;RvHB;2;2005
+jb;UB GmbH;6;2017
+jb;VpH eV;3;2017
+jb;VfHN;2;2017
+mat;EKBB;2;2017
+mat;EVfEE eV;3;
+mat;FDPBv;2;2003
+mat;FDPKv Boeb;2;2008
+mat;FA;2;2017
+mat;FG;2;2005
+mat;GMFUS;3;2003
+mat;Hd eV;3;
+mat;LiSL eV;3;2017
+mat;PRS eV;3;2017
+mat;SWoerth;2;2004
+mat;SNV e.V.;3;2013
+mat;UNDFfW;2;
+mat;WGWL eV;3;
+rss;ALUni;7;1983
+rss;ASFKW;2;1999
+rss;BfWK;1;2021
+rss;DSW eV;3;2017
+rss;FDP BW;2;2011
+rss;GeL;2;1999
+rss;GEUD eV;3;2013
+rss;Gruene BW;2;1998
+rss;IEPP;7;2004
+rss;KL Boeb;2;2009
+rss;LFAFDP BW;2;2011
+rss;LvGrue BW;2;2007
+rss;Lt BW;2;2001
+rss;SPDKv Wald;2;2001
+rss;StAC;6;2006
+rss;SV e.V.;3;
+rss;VRN;3;2004
+tl;AiF;3;2013
+tl;AvantiEU eV;3;2013
+tl;BdJ;1;2021
+tl;DFA;2;2017
+tl;DSI;3;2017
+tl;DHBW;3;2004
+tl;EP;2;2009
+tl;GVfD eV;3;
+tl;GSsF eV;3;
+tl;HiA eV;3;2017
+tl;Kl Wald;2;2004
+tl;LvGrueJu RP;2;1999
+tl;LgS;7;2012
+tl;RMS;3;2004
+tl;SB;6;1990
+tl;STARTS;3;2017
+tl;SWR;4;2013
+tl;Uni Zuerich;7;1983
+tl;WDS;3;2004
+tl;YEC eV;3;2017
+tl;ZOES eV;3;2018
