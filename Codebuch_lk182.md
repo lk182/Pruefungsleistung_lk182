@@ -1,4 +1,4 @@
-# Datensatz Codebuch für die Prüfungsleistung #
+# Codebuch für Datensatz die Prüfungsleistung #
 Codebuch erstellt von Leonie Kühn (lk182@hdm-stuttgart)
 
 ## Inhalt
