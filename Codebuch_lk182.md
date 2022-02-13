@@ -1,4 +1,4 @@
-# Datensatz Semesterverbund CRPR2 #
+# Datensatz Codebuch für die Prüfungsleistung #
 Codebuch erstellt von Leonie Kühn (lk182@hdm-stuttgart)
 
 ## Inhalt
