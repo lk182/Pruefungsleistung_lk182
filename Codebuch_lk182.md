@@ -10,19 +10,18 @@ Codebuch erstellt von Leonie Kühn (lk182@hdm-stuttgart)
 
 Das Netzwerk ist ein *ungerichtets two-mode Netzwerk*. Es wurden zwei getrennte Fragen erhoben:
 
+
 # EDGE-Attribute
 
 **from (id)**  
-(eindeutige Codierung des Knoten)   
-codiert von 1 bis 38, jede ID entspricht einem Studenten
 
 **to (id)**  
-Beziehungsstärke aufgrund der Nennung in den Fragen)  
-3 = sehr starke Beziehung (erste Nennung),   
-1 = starke Beziehung vorhanden (zweite Nennung)
 
 **relationship**
 1 = Ministerium (auch angegliedert als Staatsekretär:in), 2 = politische Funktionen, 3 = Ehrenamt, 4 = Unternehmen und Aufsichtsräte, 5 = Stipendien, 6 = Berufstätigkeiten, 7 = Studienort in In- und Ausland 
+
+**year**
+(entsprcht dem Beginn der Mitgliedschaft, politischen Funktion, etc.)
 
 
 # NODE-Attribute  
