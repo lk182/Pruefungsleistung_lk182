@@ -38,7 +38,7 @@ Identische ID wie aus der edgelist zur Identifikation der Knoten.
 **name_short**
 
 **name**
-ausgeschriebener Name
+(ausgeschriebener Name)
 
 **type**
 0 = Person, 
